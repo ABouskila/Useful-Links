@@ -21,5 +21,8 @@ https://www.youtube.com/watch?v=t3OOEZ5sBLY
 
 Social Networks Useful Links:
 
+Converting GPS points to Gambit of the Groups   
 https://cran.r-project.org/web/packages/spatsoc/vignettes/using-in-sna.html
-Converting GPS points to Gambit of the Groups
+
+A package with Social network analysis
+https://github.com/SebastianSosa/ANTs
