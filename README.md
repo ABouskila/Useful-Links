@@ -1,5 +1,5 @@
 # Useful-Links
-From R Bloggers and other sites
+From R Bloggers and other sites:
 
 Distance calculations on maps
 https://www.r-bloggers.com/three-ways-to-calculate-distances-in-r/
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=t3OOEZ5sBLY
 
 
 
-Social Networks Useful Links
+Social Networks Useful Links:
 
 https://cran.r-project.org/web/packages/spatsoc/vignettes/using-in-sna.html
 Converting GPS points to Gambit of the Groups
