@@ -16,3 +16,9 @@ https://www.r-bloggers.com/how-to-use-bootstraplibs-live-theme-previewer-to-cust
 Supervised Classification with Bio7, ImageJ and R
 https://www.youtube.com/watch?v=t3OOEZ5sBLY
 
+
+
+
+Social Networks Useful Links
+https://cran.r-project.org/web/packages/spatsoc/vignettes/using-in-sna.html
+Converting GPS points to Gambit of the Groups
