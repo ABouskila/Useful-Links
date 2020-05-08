@@ -26,5 +26,6 @@ https://cran.r-project.org/web/packages/spatsoc/vignettes/using-in-sna.html
 
 A package with Social network analysis ANTS
 https://github.com/SebastianSosa/ANTs
+
 Details about the package, and article (2018)
 http://www.s-sosa.com/ants
